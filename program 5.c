@@ -83,7 +83,7 @@ int main()
     //infinite loop
     while (1) 
     {
-        printf("\nDo you want to enter the menu? [Y/n]): ");
+        printf("\nDo you want to enter the menu? [Y/n]: ");
         scanf(" %c",&op); 
 
         //checking condition for YES
